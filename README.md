@@ -57,14 +57,16 @@ For a complete list of test cases, please refer to the [Test Case Documentation]
 ***(Section To Be Continued)***
 
 ## Bug Report
-We discovered and documented several bugs during our testing phase. Here is a summary:
+I have discovered and documented several bugs during our testing phase. Here is a summary:
 
-| Bug ID | Description | Screenshot |
+| Bug ID | Description | Screenshot / Screen Record|
 | ------ | ----------- | -------- |
-| BUG-001 | The Click option doesn't work on hovering over the Navigation Bar. | Bug_1 |
-| BUG-002 | Navigation Bar alignment breaks on Dashboard Page | Bug_2 | 
-***(Section To Be Continued)***
-
+| BUG-001 | The Click option doesn't work on hovering over the Navigation Bar. | [Bug_1](https://drive.google.com/file/d/1kKTm7UH58tEilNqT-8reKMTJHjzApocS/view) |
+| BUG-002 | Navigation Bar alignment breaks on Dashboard Page. | [Bug_2](https://github.com/AhmedManan/Academy_LMS_Test_Report/blob/main/Screenshots_%26_Screen_Records/bug_05.png) | 
+| BUG-003 | Invalid ration of Admin Commision Percentage & Instructor Commision Percentage, Sum of the percentage exeeds 100%. | [Bug_3](https://drive.google.com/file/d/1diCYo16Bi2_cztWFdGoDZsuBoMhwTVu5/view) | 
+| BUG-004 | Invalid condition for Fee Deduction Amount & Fee Deduction Type. Fees Deduction Type can't be Percentage when Fee Deduction Amount is set to more than 100. | [Bug_4](https://drive.google.com/file/d/1gT9IGQ6vcQ7Ktbh8zqxfF3NUUC0xsEuW/view) |
+| BUG-005 | Necessary fields in the Instructor Registration & Student Registration are not properly validated | [Bug_5](https://drive.google.com/file/d/1BRGJYUUI7q_Ql_mx6MCTydkJ-6y-1Fir/view) | 
+| BUG-006 | Instructor Registration & Student Registration are not showing a proper message for a already registered user. | [Bug_6](https://drive.google.com/file/d/1pqjOMl13I7v5cFUDs4Ne2nu6cv_5-rEL/view) | 
 
 For more details about each bug, please refer to the [complete Bug Report](RFL_Best_Buy.xlsx).
 
