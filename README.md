@@ -72,4 +72,5 @@ For more details about each bug, please refer to the [complete Bug Report](RFL_B
 
 This Test Report provides an overview of our testing process, test cases, and the status of the Sign In / Login, Student Registration, Instructor Registration, and Academy LMS Admin Panel Module. Feel free to reach out for any questions or clarifications.
 
-[Back to Top](#academy-lms-(wordPress-plugin)-test-report)
+[Back to Top](#academy-lms-wordpress-plugin-test-report)
+
