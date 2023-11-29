@@ -1,6 +1,6 @@
 # Academy LMS (WordPress Plugin) Test Report
 
-Welcome to the Test Report for the [Academy LMS (WordPress Plugin](https://academylms.net/) by Kodezen. This document provides a comprehensive overview of the testing process, test metrics, Test Cases, and Bug Reports related to the plugin.
+Welcome to the Test Report for the [Academy LMS (WordPress Plugin)](https://academylms.net/) by Kodezen. This document provides a comprehensive overview of the testing process, test metrics, Test Cases, and Bug Reports related to the plugin.
 
 ## Table of Contents
 - [Introduction](#introduction)
