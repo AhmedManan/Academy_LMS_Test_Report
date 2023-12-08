@@ -52,7 +52,7 @@ We have designed and executed a set of test cases to validate the functionality 
 For a complete list of test cases, please refer to the [Test Case Documentation](Academy_LMS_Kodezen.xlsx).
 
 ## SQA Mind Map
-![SQA Mind Map](Mindmap/mindmap.png)
+![SQA Mind Map](/mindmap.png)
 
 ***(Section To Be Continued)***
 
